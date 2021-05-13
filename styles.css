@@ -1,1 +1,70 @@
+body {
+    background-color: black;
+    color: #fff;
+    font-family: 'Droid Serif, YuGothic, "貂ｸ繧ｴ繧ｷ繝�け",GFS Didot, serif';
+}
 
+.navbar{
+    background-color: black;
+}
+
+h2 {
+    font-size: 45px;
+    font-family: 'GFS Didot';
+}
+
+/*-------------------top--------------------------*/
+.carousel-item {
+    height: 100%;
+    width: 100%;
+    
+}
+
+/*-----------------works-----------------------*/
+
+.card-body {
+    color: #000;
+}
+
+.card-title {
+    padding-bottom: 12px;
+    border-bottom: solid 1px;
+}
+
+.works .btn {
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+.works .btn:hover {
+    background-color: #0f0f0f;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+/*------------------profile--------------------*/
+.profile h2{
+}
+
+.profile-img{
+    margin-right: auto;
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;
+    border:3px white solid;
+}
+
+/*-------------------contact---------------*/
+
+#contact .btn{
+    color: #c1ab05;
+    width: 100px;
+    border: 1px solid;
+    border-radius: 50px;
+}
+
+#contact .btn:hover{
+    background-color: #c1ab05;
+    border: 1px solid #c1ab05;
+    color: white;
+}
